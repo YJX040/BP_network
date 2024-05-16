@@ -1,0 +1,42 @@
+Widget > QLabel {
+    font: 24px 'Segoe UI', 'Microsoft YaHei';
+}
+
+Widget {
+    border: 1px solid rgb(229, 229, 229);
+    border-right: none;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    background-color: rgb(249, 249, 249);
+}
+data_traintable > QLabel {
+    font: 24px 'Segoe UI', 'Microsoft YaHei';
+}
+
+data_testtable > QLabel {
+    font: 24px 'Segoe UI', 'Microsoft YaHei';
+}
+
+setting_widget > QLabel {
+    font: 24px 'Segoe UI', 'Microsoft YaHei';
+}
+
+/*start_widget > QLabel {*/
+/*    font: 12px 'Segoe UI', 'Microsoft YaHei';*/
+/*}*/
+plot_widget > QLabel {
+    font: 24px 'Segoe UI', 'Microsoft YaHei';
+}
+setting_widget {
+    border: 1px solid rgb(229, 229, 229);
+    border-right: none;
+    border-bottom: none;
+    border-top-left-radius: 10px;
+    background-color: rgb(249, 249, 249);
+
+}
+
+Window {
+    background-color: rgb(243, 243, 243);
+}
+
