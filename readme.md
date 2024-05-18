@@ -52,21 +52,31 @@ python main.py
 
    首页展示了基本的界面信息，包括设置界面、训练数据、测试数据等选项卡，用户可以根据需要切换不同功能界面。
 
+   <img src="https://mine-picgo.oss-cn-beijing.aliyuncs.com/imgtest/image-20240518144300865.png" alt="image-20240518144300865" style="zoom: 25%;" />
+
 2. **设置界面**
 
    设置界面用于配置应用的参数和选项，例如主题设置等。
+
+   <img src="https://mine-picgo.oss-cn-beijing.aliyuncs.com/imgtest/image-20240518144352803.png" alt="image-20240518144352803" style="zoom:25%;" />
 
 3. **训练数据**
 
    在训练数据选项卡中，用户可以管理训练数据，包括数据导入和展示。
 
+   <img src="https://mine-picgo.oss-cn-beijing.aliyuncs.com/imgtest/image-20240518144327034.png" alt="image-20240518144327034" style="zoom: 25%;" />
+
 4. **测试数据**
 
    在测试数据选项卡中，用户可以管理测试数据，包括数据导入和展示。
 
+   <img src="https://mine-picgo.oss-cn-beijing.aliyuncs.com/imgtest/image-20240518144406091.png" alt="image-20240518144406091" style="zoom: 25%;" />
+
 5. **画图界面**
 
    画图界面提供了数据的可视化功能，包括训练曲线、回忆曲线、泛化曲线等绘制，用户可以直观地分析数据。
+
+   <img src="https://mine-picgo.oss-cn-beijing.aliyuncs.com/imgtest/image-20240518144458529.png" alt="image-20240518144458529" style="zoom:25%;" />
 
 6. **神经网络**
 
