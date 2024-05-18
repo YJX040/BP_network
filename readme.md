@@ -33,9 +33,19 @@ pip install PyQt5 qfluentwidgets qframelesswindow numpy pandas graphviz pyqtgrap
 
 在终端中进入应用所在目录，并执行以下命令启动应用：
 
+* 首页用pyqt写的简易界面
+
 ```
 python demo.py
 ```
+
+* 稍微优化后的
+
+```
+python main.py
+```
+
+* 或者运行dist文件里的demo.exe
 
 ### 功能介绍
 
@@ -66,3 +76,4 @@ python demo.py
 ## 注意事项
 
 - 请确保数据格式的正确性和一致性，以保证应用的正常运行和数据的准确性。
+- pyinstaller打包需要注意版本，新版本打包去除终端时可能会出现检测到病毒等问题，卸载pyinstaller选择旧版本即可
