@@ -45,7 +45,6 @@ python demo.py
 python main.py
 ```
 
-* 或者运行dist文件里的demo.exe
 
 ### 功能介绍
 
